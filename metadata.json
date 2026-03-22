@@ -1,0 +1,5 @@
+{
+  "name": "Vision Studio AI",
+  "description": "Gerador de imagens avançado com suporte a referências visuais usando Gemini.",
+  "requestFramePermissions": []
+}
